@@ -1,0 +1,31 @@
+﻿Rodrigo Dieck Elizondo - A01721540
+Arah Rojas Blanco - A00834299
+David Julio Faudoa González - A00834801
+
+
+
+
+Videojuego: Limpiando la playa.
+
+
+¿En qué consiste?
+
+
+ Es una simulación de un recorrido en la playa donde se encuentra mucha basura, el fin del juego es ir limpiando, siempre y cuando solo se agarre basura.
+El juego consiste en ir agarrando los bloques verdes que simulan ser la basura, dejando a un lado los cangrejos (bloques rojos).
+El recorrido es de manera vertical y el movimiento que se puede realizar es únicamente horizontal con las flechas indicadas.
+
+
+Reglas:
+
+
+1. El movimiento de la tortuga es con las teclas A y D, la tecla A hace el movimiento hacia la izquierda y la tecla D hacia la derecha.
+
+
+2. Agarrar únicamente las basuras, en caso de agarrar algún cangrejo se te descontará una vida.
+
+
+3. En el caso de que no agarres una basura se te descontará una vida.
+
+
+4. Cada basura que agarres es un punto más.
